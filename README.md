@@ -14,14 +14,11 @@ To run the application locally, follow these steps:
 Alternatively, you can directly visit **https://pickyourcourt.onrender.com/** without any installation requirements.
 
 ### Features ###
-Effortless Court Bookings: Reserve your favorite court with just a few clicks.
-Real-time Availability: Access up-to-date information on court availability.
-User-Friendly Interface: Intuitive design for easy navigation and booking.
-
-### About ###
-At Pick Your Court, we are committed to enhancing your playing experience. We ensure that our courts meet the highest standards of quality and are maintained regularly to provide a top-notch environment for your games. With our service, you can focus solely on your game and leave the hassle of booking and planning to us.
-
-Join our community today and discover the best places to play badminton in your area. Sign up now and make your next game a memorable one!
+1) User Registration and Authentication
+2) View List of Courts
+3) Reservation : Add/Edit/View/Cancel court bookings
+4) Notification System : Send notifications to the user for all the CRUD operations in the reservation module
+5)  Feedback System
 
 ### Tech Stack ###
 We employed the MEN stack - MongoDB, Express, and Node.js - for PickYourCourt's development. Here's a refined overview of our deployment process using Render.com:
